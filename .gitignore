@@ -1,0 +1,15 @@
+# dependências
+node_modules/
+
+# builds
+.next/
+out/
+*.tsbuildinfo
+
+# ambiente (mantém os teus segredos fora do GitHub)
+.env
+.env.local
+
+# sistema
+.DS_Store
+Thumbs.db
