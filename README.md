@@ -33,7 +33,7 @@ npm run dev            # http://localhost:3000
 No primeiro arranque a app **cria/repara as tabelas, semeia os dados e cria a conta de comando** automaticamente.
 
 - Login comando: `comando` (password `REDPTR2026` ou `COMANDO_PASSWORD`)
-- Operador de exemplo: `ghost` / `PTR2026`
+- Operador de exemplo: `*****` / `*****`
 
 ## Variáveis de ambiente
 
